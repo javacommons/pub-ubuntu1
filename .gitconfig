@@ -1,0 +1,10 @@
+[user]
+	name = JavaCommons Technologies
+	email = javacommons@gmail.com
+[credential]
+	helper = store
+[pull]
+	rebase = false
+[core]
+	quotepath = false
+	autocrlf = false
