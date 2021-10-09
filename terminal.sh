@@ -1,1 +1,2 @@
-sudo apt install -y xterm terminator
+sudo apt install -y terminator
+
