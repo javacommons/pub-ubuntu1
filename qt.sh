@@ -6,3 +6,4 @@ sudo apt install -y qt5-doc-html qtbase5-doc-html
 sudo apt install -y qtbase5-examples
 sudo apt install -y qtdeclarative5-dev
 sudo apt install -y qtquickcontrols5-examples qtquickcontrols2-5-examples
+sudo apt install -y qtwebengine5-dev qtwebengine5-dev-tools qtwebengine5-doc qtwebengine5-examples
