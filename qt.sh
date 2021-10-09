@@ -1,2 +1,8 @@
 sudo apt update && sudo apt upgrade -y
-sudo apt install -y qtbase5-dev qttools5-dev-tools qt5-default qtcreator
+sudo apt install -y qtbase5-dev qttools5-dev-tools qt5-default
+sudo apt install -y qtcreator
+sudo apt install -y qt5-doc
+sudo apt install -y qt5-doc-html qtbase5-doc-html
+sudo apt install -y qtbase5-examples
+sudo apt install -y qtdeclarative5-dev
+sudo apt install -y qtquickcontrols5-examples qtquickcontrols2-5-examples
